@@ -1,0 +1,20 @@
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Clinic\bin\Debug\Clinic.exe.config
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Clinic\bin\Debug\Clinic.exe
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Clinic\bin\Debug\Clinic.pdb
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.csproj.AssemblyReference.cache
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.csproj.GenerateResource.cache
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.csproj.CoreCompileInputs.cache
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.exe
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.pdb
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.Form1.resources
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Clinic\bin\Debug\Clinic.exe.config
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Clinic\bin\Debug\Clinic.exe
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Clinic\bin\Debug\Clinic.pdb
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.csproj.AssemblyReference.cache
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.Form1.resources
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.csproj.GenerateResource.cache
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.csproj.CoreCompileInputs.cache
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.exe
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Clinic\obj\Debug\Clinic.pdb

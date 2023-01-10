@@ -1,0 +1,10 @@
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\bin\Debug\Lab8p.exe.config
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\bin\Debug\Lab8p.exe
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\bin\Debug\Lab8p.pdb
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.csproj.AssemblyReference.cache
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.Form1.resources
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.Properties.Resources.resources
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.csproj.GenerateResource.cache
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.csproj.CoreCompileInputs.cache
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.exe
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.pdb

@@ -1,0 +1,34 @@
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\bin\Debug\Lab8p.exe.config
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\bin\Debug\Lab8p.exe
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\bin\Debug\Lab8p.pdb
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8.csproj.AssemblyReference.cache
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.Form1.resources
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.Properties.Resources.resources
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.exe
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.pdb
+D:\ІІІ - курс\І семестр\Технології розроблення програмного забезпечення\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.Form2.resources
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\bin\Debug\Lab8p.exe.config
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\bin\Debug\Lab8p.exe
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\bin\Debug\Lab8p.pdb
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8.csproj.AssemblyReference.cache
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.Form1.resources
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.Form2.resources
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.Properties.Resources.resources
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.exe
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.pdb
+C:\Users\foksm\OneDrive\Рабочий стол\lab8 приклад\lab8 приклад\Lab8p\Lab8p\bin\Debug\Lab8p.exe.config
+C:\Users\foksm\OneDrive\Рабочий стол\lab8 приклад\lab8 приклад\Lab8p\Lab8p\bin\Debug\Lab8p.exe
+C:\Users\foksm\OneDrive\Рабочий стол\lab8 приклад\lab8 приклад\Lab8p\Lab8p\bin\Debug\Lab8p.pdb
+C:\Users\foksm\OneDrive\Рабочий стол\lab8 приклад\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Users\foksm\OneDrive\Рабочий стол\lab8 приклад\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+C:\Users\foksm\OneDrive\Рабочий стол\lab8 приклад\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.Form1.resources
+C:\Users\foksm\OneDrive\Рабочий стол\lab8 приклад\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.Form2.resources
+C:\Users\foksm\OneDrive\Рабочий стол\lab8 приклад\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.Properties.Resources.resources
+C:\Users\foksm\OneDrive\Рабочий стол\lab8 приклад\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\foksm\OneDrive\Рабочий стол\lab8 приклад\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\foksm\OneDrive\Рабочий стол\lab8 приклад\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.exe
+C:\Users\foksm\OneDrive\Рабочий стол\lab8 приклад\lab8 приклад\Lab8p\Lab8p\obj\Debug\Lab8p.pdb

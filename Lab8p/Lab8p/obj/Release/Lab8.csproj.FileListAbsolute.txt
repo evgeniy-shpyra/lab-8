@@ -1,0 +1,11 @@
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\bin\Release\Lab8p.exe.config
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\bin\Release\Lab8p.exe
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\bin\Release\Lab8p.pdb
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Release\Lab8.csproj.AssemblyReference.cache
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Release\Lab8p.Form1.resources
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Release\Lab8p.Form2.resources
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Release\Lab8p.Properties.Resources.resources
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Release\Lab8.csproj.GenerateResource.cache
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Release\Lab8.csproj.CoreCompileInputs.cache
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Release\Lab8p.exe
+D:\Studying\5_sem\ТРПЗ\lab8 приклад\Lab8p\Lab8p\obj\Release\Lab8p.pdb
